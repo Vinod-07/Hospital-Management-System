@@ -68,5 +68,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any inquiries or feedback, please reach out to:
 
-- Name: Yuvraj Badmal
-- Email: badmal.uv@gmail.com
+- Name: Vinod Reddy
+- Email: vinodreddy4103@gmail.com
